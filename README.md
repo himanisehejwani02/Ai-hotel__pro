@@ -1,7 +1,7 @@
-# Hotel_On_ management (HotelPro)
+# Ai hotel__pro (Hotel__Pro)
 > A modern, secure, and luxury-tier Hotel Management System built with the MERN stack.
 
-![HotelPro Demo](https://images.unsplash.com/photo-1582719478250-c89cae4dc85b?auto=format&fit=crop&w=1200&q=80)
+AI-Hotel__Pro 
 
 ## Overview
 **Hotel_On_ management** provides a comprehensive hospitality management platform designed to meet the evolving needs of boutique resorts, luxury suites, and hotel chains. It delivers a fast, light-themed, accessible guest booking interface alongside robust staff and administrative operational dashboards.
@@ -41,7 +41,7 @@
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Gaurang-kumawat3106/Hotel_On_management.git
+
 cd Hotel_On_management
 ```
 
