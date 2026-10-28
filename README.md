@@ -41,7 +41,7 @@ AI-Hotel__Pro
 
 ### 1. Clone the repository
 ```bash
-
+https://github.com/himanisehejwani02/Ai-hotel__pro
 cd Hotel_On_management
 ```
 
